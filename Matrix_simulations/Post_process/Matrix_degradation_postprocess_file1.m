@@ -13,7 +13,8 @@ clc
 
 % below is an example file
 % for a matrix having uniform fibrils
-% generate this example file below by running Main_collagen.m
+% genrate the below example file by running script 'Main_colagen.m'
+
 load('lf2_df0.1_F48_E1500_dE0.01_300000.mat')    % load file generated from Brownian Dynamics
 
 %% time sampling and time averaging 
