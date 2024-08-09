@@ -2,7 +2,7 @@
 
 1. To simulate degradation of single fibril
 
-Run the script in folder Single_fibril_model 
+Run script in folder Single_fibril_model 
 
 2. To simulate degradation of matrix
 
